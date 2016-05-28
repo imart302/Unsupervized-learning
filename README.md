@@ -1,2 +1,2 @@
 # Unsupervized-learning
-Implementation in C++ of QLarning and Sarsa
+Implementation in C++ of QLearning and Sarsa
