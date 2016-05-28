@@ -17,7 +17,7 @@ state m|
 enum Policy {EGreddy};
 enum LearnType {QLearning, Sarsa};
 
-// Sarsa not implemented
+
 
 template <class T>
 class Learning
